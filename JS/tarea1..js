@@ -1,3 +1,4 @@
+
 //Ejercicios de String y Números
 /*
 1 - Crea una variable con tu nombre, otra con tu apellido y
@@ -53,6 +54,12 @@ console.log(Math.floor(numeroDecimal))
 console.log(Math.ceil (numeroDecimal))
 console.log(`Nuemro Multiplicado por 3 = ${numeroDecimal * 3}`)
 console.log(`Resto del resultado dividio en 2 es = ${numeroDecimal % 2}`)
+
+
+
+
+
+
 
 
 

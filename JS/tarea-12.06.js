@@ -8,10 +8,10 @@ Se ingresa el monto de venta y el sistema debe calcular el descuento y restarlo 
 por ejemplo si se ingresa un monto de 5000 el descuento sera 550, y por tanto el valor a pagar sera 4450.*/
 
 
-let montoVenta = Number(prompt = "ingrese el Monto de Venta");
+/*let montoVenta = Number(prompt = "ingrese el Monto de Venta");
 if(montoVenta < 500){
     console.log("no hay descuento")
    
 }else if (montoVenta <=1000) {
     console.log(montoVenta * 5)
-}
+}*/

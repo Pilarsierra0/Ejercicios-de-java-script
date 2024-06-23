@@ -49,7 +49,7 @@ el precio por kilo
 
 
 //1
-let numero1 = Number (prompt(" ingrese un numero Por favor"))
+/*let numero1 = Number (prompt(" ingrese un numero Por favor"))
 console.log(numero1)
 let numero2= Number (prompt(" ingrese un segundo numero Por favor"))
 console.log(numero2)
@@ -59,7 +59,7 @@ console.log(proceso)
 
 //2
 
-let numerosDivisibles = Number(prompt("Ingrese un numero que sea divisible por 2, 3, 5, 7 por favor"))
+/*let numerosDivisibles = Number(prompt("Ingrese un numero que sea divisible por 2, 3, 5, 7 por favor"))
 console.log(numerosDivisibles)
 
 if(numerosDivisibles % 2 === 0){
@@ -72,10 +72,10 @@ if(numerosDivisibles % 2 === 0){
     console.log( `El numero = ${numerosDivisibles} es divisible por 7` )
 }else{
     console.error("El numero ingresado no es divisible por 2, 3, 5, 7, por favor vuelve a ingresar un nuevo numero")
-}
+}/*11*/
 
 //3
-let edadUsuario = parseInt(prompt("Usuario ingrese su edad"))
+/*let edadUsuario = parseInt(prompt("Usuario ingrese su edad"))
 console.log(edadUsuario)
 
 if(edadUsuario >= 18){
@@ -87,12 +87,12 @@ if(edadUsuario >= 18){
 
 
 //4
- let nota = parseInt(prompt("Ingrese su nota (numero) 0 a 10"))
+ /*let nota = parseInt(prompt("Ingrese su nota (numero) 0 a 10"))
  if(isNaN (nota)){
 alert("Ingresa un numero valido")
 }else{
-    nota = parseFloat (nota)
-    if(nota<0 || nota > 10){
+    /*nota = parseFloat (nota)*/
+  /*  if(nota<0 || nota > 10){
         alert("Erorr") 
     }else{
         if (nota >= 0 && nota <= 2){
@@ -114,7 +114,7 @@ alert("Ingresa un numero valido")
 
 
 //5 
-let sumaTotal = 0
+/*let sumaTotal = 0
 
 while(true){
     let numeros = parseFloat(prompt("Ingrese un numero")) 
@@ -132,7 +132,7 @@ while(true){
 
 //6
 
-let precios = {
+/*let precios = {
     manzana: 1000.00,
     banana: 650.50,
     naranja: 400.00,
@@ -146,16 +146,7 @@ if (precios[fruta.toLowerCase()]) {
     alert(`El precio por kilo de ` + fruta + ` es $` + precios[fruta]);
 } else {
     alert(`Disculpa, no tenemos el precio de esa fruta/ verdura`);
-}
-
-
-
-
-
-
-
-
-
+}*/
 
 
 
